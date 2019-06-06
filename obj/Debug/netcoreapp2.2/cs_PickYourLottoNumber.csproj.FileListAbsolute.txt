@@ -1,0 +1,11 @@
+D:\workplace_treehouse\cs_PickYourLottoNumber\bin\Debug\netcoreapp2.2\cs_PickYourLottoNumber.deps.json
+D:\workplace_treehouse\cs_PickYourLottoNumber\bin\Debug\netcoreapp2.2\cs_PickYourLottoNumber.runtimeconfig.json
+D:\workplace_treehouse\cs_PickYourLottoNumber\bin\Debug\netcoreapp2.2\cs_PickYourLottoNumber.runtimeconfig.dev.json
+D:\workplace_treehouse\cs_PickYourLottoNumber\bin\Debug\netcoreapp2.2\cs_PickYourLottoNumber.dll
+D:\workplace_treehouse\cs_PickYourLottoNumber\bin\Debug\netcoreapp2.2\cs_PickYourLottoNumber.pdb
+D:\workplace_treehouse\cs_PickYourLottoNumber\obj\Debug\netcoreapp2.2\cs_PickYourLottoNumber.csprojAssemblyReference.cache
+D:\workplace_treehouse\cs_PickYourLottoNumber\obj\Debug\netcoreapp2.2\cs_PickYourLottoNumber.csproj.CoreCompileInputs.cache
+D:\workplace_treehouse\cs_PickYourLottoNumber\obj\Debug\netcoreapp2.2\cs_PickYourLottoNumber.AssemblyInfoInputs.cache
+D:\workplace_treehouse\cs_PickYourLottoNumber\obj\Debug\netcoreapp2.2\cs_PickYourLottoNumber.AssemblyInfo.cs
+D:\workplace_treehouse\cs_PickYourLottoNumber\obj\Debug\netcoreapp2.2\cs_PickYourLottoNumber.dll
+D:\workplace_treehouse\cs_PickYourLottoNumber\obj\Debug\netcoreapp2.2\cs_PickYourLottoNumber.pdb
